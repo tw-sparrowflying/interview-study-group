@@ -1,1 +1,1 @@
-This is a sample meeting.
+This is a mock interview meeting sample.
