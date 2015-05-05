@@ -1,4 +1,4 @@
-[Same Tree(LeetCode OJ)](https://leetcode.com/problems/same-tree/)
+[Same Tree (LeetCode OJ)](https://leetcode.com/problems/same-tree/)
 
 Same Tree
 
